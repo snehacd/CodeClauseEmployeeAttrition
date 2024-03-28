@@ -43,10 +43,10 @@ The dataset used for this project contains information about employees such as d
 8. **Prediction**: Using the trained model(s) to predict employee attrition on unseen data.
 
 ## Results
-The model achieves an accuracy of X% on the test dataset. Further details on model performance metrics and insights gained from the analysis are provided in the project documentation.
+The model achieves an accuracy of 90% on the test dataset. Further details on model performance metrics and insights gained from the analysis are provided in the project documentation.
 
 ## Dependencies
-- Python 3.x
+- Python 3
 - Pandas
 - NumPy
 - Scikit-learn
@@ -54,24 +54,6 @@ The model achieves an accuracy of X% on the test dataset. Further details on mod
 - Seaborn
 
 ## Usage
-1. Clone the repository:
+1 Add the dataset
+2 Run the Jupyter Notebook or Python scripts to execute the project steps sequentially.
 
-    ```bash
-    git clone https://github.com/your_username/employee-attrition-prediction.git
-    ```
-
-2. Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter Notebook or Python scripts to execute the project steps sequentially.
-
-## Contributors
-- [Your Name](https://github.com/your_username)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
